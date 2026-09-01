@@ -60,7 +60,7 @@
 
 本ポリシーに関するご質問は、以下の連絡先までご連絡ください。
 
-**blueseedlabs@gmail.com**
+**sormikalabs@gmail.com**
 
 ---
 
