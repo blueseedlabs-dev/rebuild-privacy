@@ -8,7 +8,7 @@ Please choose your language below.
 
 ---
 
-This page is the official Privacy Policy for the "Rebuild" app (developed by BlueSeed Labs).
-本ページは、「Rebuild」アプリ（開発元：BlueSeed Labs）の公式プライバシーポリシーです。
+This page is the official Privacy Policy for the "Rebuild" app (developed by SORMIKA LABS).
+本ページは、「Rebuild」アプリ（開発元：SORMIKA LABS）の公式プライバシーポリシーです。
 
-Contact / お問い合わせ：**blueseedlabs@gmail.com**
+Contact / お問い合わせ：**sormikalabs@gmail.com**
