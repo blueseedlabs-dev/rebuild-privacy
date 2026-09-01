@@ -60,7 +60,7 @@ This policy may be updated from time to time in response to legal changes or new
 
 If you have any questions about this policy, please contact:
 
-**blueseedlabs@gmail.com**
+**sormikalabs@gmail.com**
 
 ---
 
